@@ -37,9 +37,24 @@ Aqui estão as tecnologias que utilizo no meu dia a dia de estudos e projetos:
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Status & Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavodev641&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavodev641&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavodev641&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🐍 Atividade no GitHub
+<p align="center">
+  <img src="https://github-raw-githubusercontent-com.translate.goog/Gustavodev641/Gustavodev641/output/github-contribution-grid-snake.svg?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=wapp" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gustavodev641&label=Perfil%20Views&color=0077B5&style=flat" alt="Views" />
 </p>
