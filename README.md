@@ -50,7 +50,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia de estudos e projetos:
 
 ### 🐍 Atividade no GitHub
 <p align="center">
-  <img src="https://github-raw-githubusercontent-com.translate.goog/Gustavodev641/Gustavodev641/output/github-contribution-grid-snake.svg?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=wapp" alt="Snake Animation" />
+  <img src="https://github.com/Gustavodev641/Gustavodev641/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
